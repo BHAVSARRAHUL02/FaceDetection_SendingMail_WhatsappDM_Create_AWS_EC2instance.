@@ -1,0 +1,15 @@
+TEAM TASK 6 (USING JUPYTER NOTEBOOOK)
+
+📌Create a program that perform below mentioned task upon recognizing a particular face.
+
+📌(6.1) When it recognize your face then -
+
+1.) It send mail to your mail id by writing *this is face of your_name*.
+2.) Second it send whatsapp message to your friend, it can be anything.
+
+📌 (6.2) When it recognize second face, it can be your friend or family members face -
+
+1.) Create *EC2* instance in the *AWS* using CLI.
+2.) Create 5 GB EBS volume and attach it to the instance.
+
+
